@@ -1,9 +1,37 @@
 @charset "utf-8";
 
-.carousel {
-	width: 500pt;
-	font-size: large;
-	margin-left: auto; 
-	margin-right: auto;
-	
+.art { 
+	width: 200pt;
+	height: auto;
+}
+
+.eiffel {
+	width: 150pt;
+	height: auto;
+}
+
+.painting {
+	width: 200pt;
+	height: auto;
+}
+
+.santorini {
+	width: 200pt;
+	height: auto;
+}
+
+.footer {
+	background-color: #6C757D;
+}
+
+.jumbotron-image{
+	background-image: url("../image/canon.jpg");
+	background-size: contain;
+}
+.jumbotron {
+	position: relative;
+	overflow: hidden;
+	background-image: url("../image/canon.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
 }
