@@ -25,13 +25,13 @@
 }
 
 .jumbotron-image{
-	background-image: url("../image/canon.jpg");
+	background-image: url("../images/canon.jpg");
 	background-size: contain;
 }
 .jumbotron {
 	position: relative;
 	overflow: hidden;
-	background-image: url("../image/canon.jpg");
+	background-image: url("../images/canon.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 }
